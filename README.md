@@ -69,24 +69,24 @@ _Languages used for high-performance computing, data structures, and algorithms.
 
 ### **1. Gym Management App**
 
-| Link                                                                         | Description                                                                                                                                                           |
-| :--------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [**GitHub Repo**](https://github.com/MickeyAtz/GYM_MANAGEMENT_APP_REPO_LINK) | A full stack system focused on **API design** and **database optimization**. Manages client memberships, tracks workouts, and provides personalized user information. |
-| **Tech Stack:** React, Express.js, PostgreSQL                                | **Focus:** User authentication, data management, and full-stack integration.                                                                                          |
+| Link                                                   | Description                                                                                                                                                           |
+| :----------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [**GitHub Repo**](https://github.com/MickeyAtz/GymApp) | A full stack system focused on **API design** and **database optimization**. Manages client memberships, tracks workouts, and provides personalized user information. |
+| **Tech Stack:** React, Express.js, PostgreSQL          | **Focus:** User authentication, data management, and full-stack integration.                                                                                          |
 
 #### **2. Visitor Manager & File Organizer**
 
-| Link                                                                      | Description                                                                                                                                                              |
-| :------------------------------------------------------------------------ | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [**GitHub Repo**](https://github.com/MickeyAtz/VISITOR_MANAGER_REPO_LINK) | Developed for a small business to manage visitors and organize company files. A desktop application utilizing the **Model-View-Controller (MVC)** architectural pattern. |
-| **Tech Stack:** Java, MySQL                                               | **Focus:** Architectural design (MVC), data persistence, and business logic implementation.                                                                              |
+| Link                                 | Description                                                                                                                                                              |
+| :----------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Repo not available at the moment** | Developed for a small business to manage visitors and organize company files. A desktop application utilizing the **Model-View-Controller (MVC)** architectural pattern. |
+| **Tech Stack:** Java, MySQL          | **Focus:** Architectural design (MVC), data persistence, and business logic implementation.                                                                              |
 
 #### **3. PDV Canela (Point of Sale)**
 
-| Link                                                                 | Description                                                                                                                       |
-| :------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------- |
-| [**GitHub Repo**](https://github.com/MickeyAtz/PDV_CANELA_REPO_LINK) | An online POS system designed to centralize and manage the entire store workflow: inventory, client sales, reports, and payments. |
-| **Tech Stack:** PHP, jQuery, MySQL                                   | **Focus:** Building modular, data-driven systems and improving operational efficiency.                                            |
+| Link                                                | Description                                                                                                                       |
+| :-------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------- |
+| [**GitHub Repo**](https://github.com/MickeyAtz/PDV) | An online POS system designed to centralize and manage the entire store workflow: inventory, client sales, reports, and payments. |
+| **Tech Stack:** PHP, jQuery, MySQL                  | **Focus:** Building modular, data-driven systems and improving operational efficiency.                                            |
 
 ---
 
