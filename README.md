@@ -6,20 +6,20 @@
 
 ### About Me
 
-I am a passionate **Full Stack Developer** currently in the 7th semester of **Computer Systems Engineering**. My goal is to build **scalable, robust, and eficient web solutions** from the database to the user interface.
+I am a passionate **Full Stack Developer** currently in the 7th semester of **Computer Systems Engineering**. My goal is to build **scalable, robust, and efficient web solutions** from the database to the user interface.
 
-My core webexpertise is centered on the **PERN/MERN Stack** (React, Node.js, Express, PostgreSQL). Howerver, my engineering background provides me with a deep specialization in **systems architecture, data integrity, and complex algorithms**. I leeverage languages like **Java, Python, and C++** for systems progamming, algorithmic development, and performance-critical logic.
+My core web expertise is centered on the **PERN/MERN Stack** (React, Node.js, Express, PostgreSQL). Howerver, my engineering background provides me with a deep specialization in **systems architecture, data integrity, and complex algorithms**. I leverage languages like **Java, Python, and C++** for systems programming, algorithmic development, and performance-critical logic.
 
-I am always focused on **clean, maintainable code** and **architectural excelence**, as demostrated by my use of patterns like **MVC** in production-style projects.
+I am always focused on **clean, maintainable code** and **architectural excellence**, as demonstrated by my use of patterns like **MVC** in production-style projects.
 
 ---
 
 ### Certifications & Ongoing Education
 
 - **React** by Mimo
-- **Bootcamp Internet Computer Motoko** by WayLearn
+- **Bootcamp: Internet Computer (Motoko)** by WayLearn
 - **Java Fundamentals** by Board Infinity
-- **Ongoing:** Git and GiHub by Platzi
+- **Ongoing:** Git and GitHub by Platzi
 - **Ongoing:** Introduction to Python by Microsoft
 - **Ongoing:** Java Spring Boot by Platzi
 
@@ -27,7 +27,7 @@ I am always focused on **clean, maintainable code** and **architectural excelenc
 
 ### Tech Stack & Core Tools
 
-My versatile toolset reflects my ability to deliver acroos the stack, with specialized languages for complex systems progamming.
+My versatile toolset reflects my ability to deliver across the stack, with specialized languages for complex systems programming.
 
 ### **Programming Languages**
 
@@ -105,10 +105,10 @@ _Languages used for high-performance computing, data structures, and algorithms.
 
 ### Interests & Hardware Enthusiast
 
-When I'm not coding, my time is dedicated to deeping my knowledge in systems and enjoying high-tech hobbies:
+When I'm not coding, my time is dedicated to deepening my knowledge in systems and enjoying high-tech hobbies:
 
 - **Algorithms & Data Structures:** Dedicated time to practicing and mastering algorithmic problem-solving.
-- **Tech News & Reviews:** Following key channels like LTT, Dave2D and Nate Gentile, and hardware.
+- **Tech News & Reviews:** Following key channels like LTT, Dave2D and Nate Gentile for hardware content.
 - **Media:** Watching movies and series.
 - **Gaming:** Playing a lot of games. I love all kind of games.
 
