@@ -29,7 +29,7 @@ I am always focused on **clean, maintainable code** and **architectural excelenc
 
 My versatile toolset reflects my ability to deliver acroos the stack, with specialized languages for complex systems progamming.
 
-#### **Programming Languages**
+### **Programming Languages**
 
 _A strong foundation across multiple paradigms for web, systems, and algorithmic development._
 
