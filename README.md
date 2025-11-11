@@ -29,6 +29,18 @@ I am always focused on **clean, maintainable code** and **architectural excelenc
 
 My versatile toolset reflects my ability to deliver acroos the stack, with specialized languages for complex systems progamming.
 
+#### **Programming Languages**
+
+_A strong foundation across multiple paradigms for web, systems, and algorithmic development._
+
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C/C++](https://img.shields.io/badge/C/C++-A8B9C8?style=for-the-badge&logo=cplusplus&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Motoko](https://img.shields.io/badge/Motoko-00A9E0?style=for-the-badge&logo=internetcomputer&logoColor=white)
+
 ### **Web Development Core (Full Stack)**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -40,6 +52,7 @@ My versatile toolset reflects my ability to deliver acroos the stack, with speci
 ### **Systems & Algorithms**
 
 _Languages used for high-performance computing, data structures, and algorithms._
+
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
